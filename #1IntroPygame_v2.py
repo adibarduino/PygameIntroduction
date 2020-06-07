@@ -4,7 +4,7 @@ Série d'introduction à Pygame
 Prérequis:
     - les bases de Python
     - les listes et les fonctions
-#1 première épisode de la série:
+#1 premier épisode de la série:
     - fenêtre principale du jeu
     - horloge du jeu
     - le joueur (graphisme simplifié)
